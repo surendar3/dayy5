@@ -1,0 +1,33 @@
+//resume :
+{
+    "name": "surendran kumar M",
+    "phone no": "8056748854",
+    "gmail": "surendrankumarm@gmail.com",
+    "educational qulification": [
+        {
+            "degree": "BE CSE",
+            "institution": "KCT",
+            "year of passing": "2017-2021",
+            "percentage": "76"
+        },
+        {
+            "degree": "HSC",
+            "institution": "CEOAHSS",
+            "year of passing": "2016-2017",
+            "percentage": "89"
+        },
+        {
+            "degree": "SSLC",
+            "institution": "SSV",
+            "year of passing": "2014-2015",
+            "percentage": "94"
+        }
+    ],
+    "personal details": {
+        "father's name": "Manoharan P",
+        "dob": "03-08-1999",
+        "address": ["Oom Sakthi M.I.A.S illam" ,"Vekatesh Nagar" ,"Melur" ,"Madurai"]
+    }
+
+
+}
